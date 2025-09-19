@@ -1,5 +1,5 @@
 # kobo-ui-greek-fonts-support
-Support for Greek fonts in names, titles, collections and dictionary definitions.
+Support for Greek fonts in names, titles, collections and dictionary definitions for Kobo Clara BW.
 
 <b>Installation:</b>
 1. Connect the device to pc
