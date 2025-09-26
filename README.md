@@ -7,7 +7,7 @@ Support for Greek fonts in names, titles, collections and dictionary definitions
 3. Safely eject the device and <b>wait</b> to reboot
 4. Enjoy
 
-<i>Testing device</i>: <b>Kobo Clara BW</b>, firmware: 4.42.23296	May 2025
+<i>Testing device</i>: <b>Kobo Clara BW</b>, firmware: 4.42.23296	May 2025, firmware: 4.43.23418 August 2025
 
 <b>Screenshots:</b>
 
